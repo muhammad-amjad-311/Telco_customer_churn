@@ -90,4 +90,4 @@ Customers most likely to churn are **new (low tenure)**, on a **month-to-month c
 
 1. Clone this repository
 2. Run `clean.py` to generate the cleaned dataset (or use the pre-cleaned CSV included)
-3. Open `Telco_Churn_Dashboard.pbix` in Power BI Desktop to explore the interactive dashboard
+3. Open `dashboard.pbix` in Power BI Desktop to explore the interactive dashboard
